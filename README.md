@@ -10,12 +10,12 @@
 ###### (be free to check some in my repositories)
 
 <br/>
-<br/>
-<br/>
+
 
 ##### In addition to these skills, I learned mobile and website development 
 ##### front end: reactjs, dash, streamlit, react native.
 ##### back end : nodejs, fastAPI, flask
+###### (be free to check some in my website)
 
 <!--
 **Yameogo123/Yameogo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
