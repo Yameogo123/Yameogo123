@@ -1,9 +1,12 @@
-### Hi this is Wendyam Maximilien Ivan
+### ✨ Hi this is Wendyam Maximilien Ivan ✨
+
+- website: https://yameogo123.github.io/resume/
+- mail: yameogoivan10@gmail.com
 
 ##### I am currently in my last year of master degree in data science (machine learning, little part of deep with computer vision and mlOps)
 ##### Thanks to these studies we worked on lot of projects that allows me to develop skills in some domains such as
 ##### data analysis with software as `Tableau`.
-##### data engeneering with `Talend``.
+##### data engeneering with `Talend`.
 ##### MLOps with `Docker`, `Azure`.
 ###### (be free to check some in my repositories)
 
