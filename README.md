@@ -3,13 +3,19 @@
 - website: https://yameogo123.github.io/resume/
 - mail: yameogoivan10@gmail.com
 
-##### I am currently in my last year of master degree in data science (machine learning, little part of deep with computer vision and mlOps)
-##### Thanks to these studies we worked on lot of projects that allows me to develop skills in some domains such as
+##### I am currently in my last year of master degree in data science (machine learning, little part of deep with computer vision and mlOps). Thanks to these studies we worked on lot of projects that allows me to develop skills in some domains such as
 ##### data analysis with software as `Tableau`.
 ##### data engeneering with `Talend`.
 ##### MLOps with `Docker`, `Azure`.
 ###### (be free to check some in my repositories)
 
+<br/>
+<br/>
+<br/>
+
+##### In addition to these skills, I learned mobile and website development 
+##### front end: reactjs, dash, streamlit, react native.
+##### back end : nodejs, fastAPI, flask
 
 <!--
 **Yameogo123/Yameogo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
