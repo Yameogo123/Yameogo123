@@ -7,10 +7,9 @@
 ##### data analysis with software as `Tableau`.
 ##### data engeneering with `Talend`.
 ##### MLOps with `Docker`, `Azure`.
+##### Machine learning with Python and R
 ###### (be free to check some in my repositories)
-
 <br/>
-
 
 ##### In addition to these skills, I learned mobile and website development 
 ##### front end: reactjs, dash, streamlit, react native.
