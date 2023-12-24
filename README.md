@@ -12,8 +12,8 @@
 <br/>
 
 ##### In addition to these skills, I learned mobile and website development 
-##### front end: reactjs, dash, streamlit, react native.
-##### back end : nodejs, fastAPI, flask
+##### front end: `reactjs`, `dash`, `streamlit`, `react native`.
+##### back end : `nodejs`, `fastAPI`, `flask`
 ###### (be free to check some in my website)
 
 <!--
