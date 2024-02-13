@@ -32,6 +32,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yameogo123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!--
 **Yameogo123/Yameogo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
