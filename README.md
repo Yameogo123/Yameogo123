@@ -15,10 +15,22 @@
 ##### front end: `reactjs`, `dash`, `streamlit`, `react native`.
 ##### back end : `nodejs`, `fastAPI`, `flask`
 ###### (be free to check some in my website)
- 
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yameogo123&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+---
 
 
 ![Wendyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yameogo123&theme=tokyonight&show_icons=true)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yameogo123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
