@@ -12,7 +12,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  [https://github.com/devicons/devicon/blob/master/icons/tableau/tableau-original.svg](https://cdn.worldvectorlogo.com/logos/tableau-software.svg) &nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/talend/talend-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
 </div>
 <br/>
