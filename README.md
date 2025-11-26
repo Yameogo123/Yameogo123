@@ -1,102 +1,110 @@
 # 👋 Hello, I'm Wendyam Maximilien Ivan
 
-### 🌐 Connect with Me
-- **Website**: [https://yameogo123.github.io/resume/](https://yameogo123.github.io/resume/)
+### 🌐 Connect With Me
+- **Portfolio**: [yameogo123.github.io/resume/](https://yameogo123.github.io/resume/)
 - **Email**: yameogoivan10@gmail.com
+- **GitHub**: [github.com/Yameogo123](https://github.com/Yameogo123)
 
 ---
 
 ## 🎓 About Me
-I'm currently in my final year of a Master's degree in **Data Science**, specializing in:
-- 🤖 Machine Learning
-- 👁️ Computer Vision (Deep Learning)
-- 🔧 MLOps
+Final year Master's student in **Data Science** with expertise in:
+- 🤖 Machine Learning & Predictive Modeling
+- 👁️ Computer Vision & Deep Learning
+- 🔧 MLOps & Production Deployment
+- 📊 Data Analysis & Visualization
 
-Through my studies, I've worked on numerous projects that have helped me develop expertise across various domains.
+My academic journey has involved numerous hands-on projects across the data science spectrum.
 
 ---
 
-## 💼 Technical Skills
+## 💼 Technical Expertise
 
 ### 🏗️ Data Engineering & Analytics
-<div>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/TalendLogoCoral.png" title="Talend" alt="Talend" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KNIMELogoTM.svg/1280px-KNIMELogoTM.svg.png" title="KNIME" alt="KNIME" width="80" height="40"/>&nbsp;
-</div>
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)](https://www.talend.com/)
+[![KNIME](https://img.shields.io/badge/KNIME-0080FF?style=for-the-badge&logo=knime&logoColor=white)](https://www.knime.com/)
 
-### ☁️ MLOps & DevOps
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-</div>
+### ☁️ MLOps & Cloud Platforms
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
-### 📊 Data Science & Machine Learning
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-</div>
+### 📊 Data Science & Analytics
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 ---
 
 ## 🌐 Full-Stack Development
 
 ### Frontend Technologies
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
-</div>
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/dash/)
 
-### Backend Technologies
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-</div>
+### Backend & API Development
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-*Feel free to explore my projects in the repositories!*
-
----
-
-## 📈 GitHub Statistics
-
-### 🔥 Contribution Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yameogo123&theme=dark&background=000000)](https://git.io/streak-stats)
-
-### 📊 Overall Stats
-![Wendyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yameogo123&theme=tokyonight&show_icons=true)
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ---
 
-## 💻 Programming Languages & Tools
+## 📈 GitHub Analytics
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+### 🔥 Contribution Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yameogo123&theme=dark&background=000000&border_radius=10)](https://git.io/streak-stats)
+
+### 📊 Profile Statistics
+![Wendyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yameogo123&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
 
 ---
 
-## 🗣️ Most Used Languages
+## 💻 Technology Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yameogo123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### Programming Languages
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
+[![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)](https://www.r-project.org/)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Web Development
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)](https://reactjs.org/)
+[![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)](https://spring.io/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)](https://redux.js.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### DevOps & Tools
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)](https://www.docker.com/)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)](https://azure.microsoft.com/)
 
 ---
 
-## 😄 Let's Lighten Up!
+## 🗣️ Language Usage
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yameogo123&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my work and don't hesitate to reach out for collaboration opportunities.* 🚀
+## 😄 Developer Humor
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&borderColor=#3498db)
+
+---
+
+## 📫 Let's Collaborate!
+I'm always open to discussing data science, machine learning, and full-stack development projects. Feel free to explore my repositories and reach out!
+
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yameogoivan10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](https://yameogo123.github.io/resume/)
+
+*"Turning data into insights, and insights into solutions."* 🚀
