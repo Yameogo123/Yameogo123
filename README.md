@@ -88,7 +88,6 @@ environments.
 # 📈 GitHub Analytics
 
 ![GitHubStreak](https://streak-stats.demolab.com?user=Yameogo123&theme=dark&background=000000&border_radius=10)
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=Yameogo123&theme=tokyonight&show_icons=true&count_private=true)
 
 ------------------------------------------------------------------------
 
